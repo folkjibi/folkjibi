@@ -8,7 +8,7 @@ Studying to become a Fullstack Developer and learning new things. To develop you
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [My Portfolio Website](http://folkjibix.netlify.app)
-* ✉️  You can contact me at [comnet58.33621@gmail.com](mailto:comnet58.33621@gmail.com)
+* ✉️  You can contact me at [anuponglew24@gmail.com](mailto:anuponglew24@gmail.com)
 * 🧠  I'm learning Fullstack
 
 ### Skills
